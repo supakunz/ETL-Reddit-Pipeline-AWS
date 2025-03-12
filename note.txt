@@ -1,0 +1,5 @@
+1.install package on local package
+- apache airflow
+- pandas
+- numpy
+- praw # เป็นไลบรารีของ Python ที่ใช้เชื่อมต่อกับ Reddit API เพื่อดึงข้อมูลจาก Reddit หรือโพสต์ข้อมูลกลับเข้าไปในแพลตฟอร์ม

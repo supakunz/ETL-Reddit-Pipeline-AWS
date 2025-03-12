@@ -1,0 +1,24 @@
+# Ignore environment variable files
+airflow.env
+
+# Ignore Data Folder
+/data/input/
+/data/output/
+
+# Ignore Logs Folder
+/logs/
+
+# Ignore Dags Folder
+/dags/__pycache__
+
+# Ignore Etls Folder
+/etls/__pycache__
+
+# Ignore Pipelines Folder
+/pipelines/__pycache__
+
+# Ignore Utils Folder
+/utils/__pycache__
+
+# Ignore Utils Folder
+/config/config.conf
