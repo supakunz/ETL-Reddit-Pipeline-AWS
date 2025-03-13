@@ -31,8 +31,17 @@ The raw data and output files are too large to store in the repository. They are
 ## Airflow Pipeline
 <img alt="ETL pipeline" src="https://github.com/user-attachments/assets/48feae94-1c53-4c0c-822c-8ae6db28ad24">
 
+## Glue ETL
+Job ETL:
+<img alt="ETL pipeline" src="https://github.com/user-attachments/assets/b4621c07-6b6c-4713-a536-de047350a858">
+
+Crawler:
+<img alt="ETL pipeline" src="https://github.com/user-attachments/assets/a55772ed-c89d-441e-b6e5-ef83fb3f7f57">
+
+
+
 ## Output
-[<img src="https://github.com/user-attachments/assets/f3002d49-57d4-406f-b882-3d2df7a14f6d" width=70% height=70%>](https://lookerstudio.google.com/reporting/06afc17e-5b14-40be-b797-47dc3729b332)
+<img align="left" src="https://github.com/user-attachments/assets/8ce24728-3f82-4ce9-a346-0886b8da24f5" style="padding-right:30px;" alt="status" height="365" width="375"/> <img src="https://github.com/user-attachments/assets/5511c4f9-5e98-4ac8-92b7-132c2e20b164" alt="status" width="375"/>
 * The final output from Power BI can be accessed via the following link: [Download Dashboard](https://drive.google.com/file/d/1zyHMYYam206mGEXB5zWnpGLbbcIgAONA/view?usp=drive_link). Note: The dashboard reads data from a static CSV file exported from BigQuery.
 
 ## ❄️ Setup
