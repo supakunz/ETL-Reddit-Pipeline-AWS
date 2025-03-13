@@ -66,5 +66,17 @@ cd ETL-Reddit-Pipeline-AWS
 
 - Adding variables to `config.conf` must be consistent with the format of `config.sample.conf` by following the same structure and replacing the required values correctly.
 
+3. Starting the containers :
+
+```
+ docker-compose up -d
+```
+
+4. Launch the Airflow web UI :
+
+```
+open http://localhost:8080
+```
+
 ## Contact
 Supakun Thata (supakunt.thata@gmail.com)
