@@ -52,27 +52,27 @@ The raw data and output files are too large to store in the repository. They are
 ## ❄️ Setup
 
 1. Clone this repository :
-   ```bash
-   git clone https://github.com/supakunz/ETL-Reddit-Pipeline-AWS.git
-   ```
+```bash
+git clone https://github.com/supakunz/ETL-Reddit-Pipeline-AWS.git
+```
 
 2. Navigate to the project folder and Set up the environment variables :
-   ```
-   cd ETL-Reddit-Pipeline-AWS
-   ```
-   - Create a `config.conf` file into config folder.
+```
+cd ETL-Reddit-Pipeline-AWS
+```
+- Create a `config.conf` file into config folder.
    
-   - Adding variables to `config.conf` must be consistent with the format of `config.sample.conf` by following the same structure and replacing the required values correctly.
+- Adding variables to `config.conf` must be consistent with the format of `config.sample.conf` by following the same structure and replacing the required values correctly.
 
 3. Starting the containers :
-   ```
-    docker-compose up -d
-   ```
+```
+docker-compose up -d
+```
 
 4. Launch the Airflow web UI :
-   ```
-   open http://localhost:8080
-   ```
+```
+open http://localhost:8080
+```
 
 ## Contact
 Supakun Thata (supakunt.thata@gmail.com)
