@@ -26,7 +26,7 @@ The raw data and output files are too large to store in the repository. They are
 - **Raw data** link : https://drive.google.com/file/d/1NetxSDnmTlw_foWr8GYJPEz-xEt8Fy53/view?usp=sharing
 
 ## Data Modeling
-![Uber Data Model](https://github.com/user-attachments/assets/515ce74d-6feb-46c1-8db1-38e050c2ae12)
+![Uber Data Model](https://github.com/user-attachments/assets/7ced58c2-7210-42ac-98d6-b0d73a353b80)
 
 ## Airflow Pipeline
 <img alt="ETL pipeline" src="https://github.com/user-attachments/assets/48feae94-1c53-4c0c-822c-8ae6db28ad24">
