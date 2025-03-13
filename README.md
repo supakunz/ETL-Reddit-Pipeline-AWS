@@ -41,8 +41,11 @@ Crawler:
 
 
 ## Output
-<img align="left" src="https://github.com/user-attachments/assets/8ce24728-3f82-4ce9-a346-0886b8da24f5" style="padding-right:30px;" alt="status" height="365" width="375"/> <img src="https://github.com/user-attachments/assets/5511c4f9-5e98-4ac8-92b7-132c2e20b164" alt="status" width="375"/>
-* The final output from Power BI can be accessed via the following link: [Download Dashboard](https://drive.google.com/file/d/1zyHMYYam206mGEXB5zWnpGLbbcIgAONA/view?usp=drive_link). Note: The dashboard reads data from a static CSV file exported from BigQuery.
+<img align="left" src="https://github.com/user-attachments/assets/8ce24728-3f82-4ce9-a346-0886b8da24f5" style="padding-right:30px;" alt="status" height="365" width="375"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://github.com/user-attachments/assets/5511c4f9-5e98-4ac8-92b7-132c2e20b164" alt="status"/>
 
 ## ❄️ Setup
 
