@@ -41,9 +41,10 @@ Crawler:
 
 
 ## Output
-<img align="left" src="https://github.com/user-attachments/assets/8ce24728-3f82-4ce9-a346-0886b8da24f5" style="padding-right:30px;" alt="status" height="365" width="375"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/8ce24728-3f82-4ce9-a346-0886b8da24f5" style="padding-right:30px;" alt="status" height="365" width="375"/>
+
+###
 
 <img src="https://github.com/user-attachments/assets/5511c4f9-5e98-4ac8-92b7-132c2e20b164" alt="status"/>
 
