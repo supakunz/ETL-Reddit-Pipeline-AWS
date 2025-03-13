@@ -1,6 +1,6 @@
 # Reddit Data Engineering Pipeline on AWS
 
-An end-to-end modern data engineering project, including deployment of an ETL pipeline on Google Cloud Platform. The data is extracted from Supabase ( PostgreSQL ), processed and loaded into BigQuery for analysis, and finally visualized using Power BI to generate an insight dashboard
+An end-to-end modern data engineering project, including deployment of an ETL pipeline on AWS.The pipeline leverages a combination of tools and services including Apache Airflow, Amazon S3, AWS Glue, Amazon Athena, and Amazon Redshift.
 
 ## Architecture
 <img width="1258" alt="Project Architecture" src="https://github.com/user-attachments/assets/3cab990d-21d1-4d34-9ece-2e45426ae24c">
