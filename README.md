@@ -3,7 +3,7 @@
 An end-to-end modern data engineering project, including deployment of an ETL pipeline on Google Cloud Platform. The data is extracted from Supabase ( PostgreSQL ), processed and loaded into BigQuery for analysis, and finally visualized using Power BI to generate an insight dashboard
 
 ## Architecture
-<img width="1258" alt="Project Architecture" src="https://github.com/user-attachments/assets/9d65b70c-e944-414e-acca-a062d84b4deb">
+<img width="1258" alt="Project Architecture" src="https://github.com/user-attachments/assets/3cab990d-21d1-4d34-9ece-2e45426ae24c">
 
 
 ## Technology Stack
