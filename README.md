@@ -33,9 +33,11 @@ The raw data and output files are too large to store in the repository. They are
 
 ## Glue ETL
 Job ETL:
+<br>  
 <img alt="ETL pipeline" src="https://github.com/user-attachments/assets/b4621c07-6b6c-4713-a536-de047350a858">
 
 Crawler:
+<br>  
 <img alt="ETL pipeline" src="https://github.com/user-attachments/assets/a55772ed-c89d-441e-b6e5-ef83fb3f7f57">
 
 
