@@ -74,5 +74,8 @@ docker-compose up -d
 open http://localhost:8080
 ```
 
-## Contact
-Supakun Thata (supakunt.thata@gmail.com)
+## 🙋‍♂️ Contact
+
+Developed by **Supakun Thata**  
+📧 Email: supakunt.thata@gmail.com  
+🔗 GitHub: [SupakunZ](https://github.com/SupakunZ)
